@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-frontend/node_modules/
+
 
 # Distribution / packaging
 .Python
@@ -38,7 +38,6 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-frontend/node_modules
 
 # Unit test / coverage reports
 htmlcov/
@@ -172,7 +171,6 @@ cython_debug/
 db.sqlite3
 
 # dependencies
-/frontend/node_modules
 /.pnp
 .pnp.js
 
@@ -181,6 +179,8 @@ db.sqlite3
 
 # production
 /build
+
+tete/src
 
 # misc
 .DS_Store
