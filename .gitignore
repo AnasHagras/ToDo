@@ -180,7 +180,7 @@ db.sqlite3
 # production
 /build
 
-tete/src
+tete/src/
 
 # misc
 .DS_Store
