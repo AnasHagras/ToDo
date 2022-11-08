@@ -180,8 +180,6 @@ db.sqlite3
 # production
 /build
 
-tete/src/
-
 # misc
 .DS_Store
 .env.local
